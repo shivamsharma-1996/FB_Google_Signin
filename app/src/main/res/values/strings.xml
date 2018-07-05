@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PGB_Signup_Login</string>
+    <string name="facebook_app_id">165131240811290</string>
+    <string name="fb_login_protocol_scheme">fb165131240811290</string>
+
+</resources>
